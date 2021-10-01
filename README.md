@@ -1,0 +1,1 @@
+The intent behind this project is to improve my web dev skills. We will be building a website that provides links to great recipes. Please enjoy and feel free to sub to my YouTube channel.
